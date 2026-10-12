@@ -148,3 +148,4 @@ collab-playground/
 ├── INSTRUCTOR.md                   # 강사용 레포 설정
 └── README.md
 ```
+안녕하세요! 풀스택 개발자를 공부하고 있는 정지수 입니다.
